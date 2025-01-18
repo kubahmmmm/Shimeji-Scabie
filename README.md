@@ -2,6 +2,7 @@
 
 ## 🐛 What is this?
 This is a fun and chaotic Shimeji project featuring *Swierzbowce* (mites) that crawl around your screen, troll you, and sometimes… build rockets? 🚀  
+![image](https://github.com/user-attachments/assets/7c2700d7-1391-4cbd-bc32-de5d70cacf95)
 
 The Swierzbowce can:  
 - Walk on your screen, walls, and ceiling 🐾  
